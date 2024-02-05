@@ -1,0 +1,147 @@
+[
+    {
+      "address": "0x326f23422CE22Ee5fBb5F37f9fa1092d095546F8",
+      "name": "Deepr",
+      "symbol": "DEEPR",
+      "decimals": 18,
+      "icon": "https://images.shimmersea.finance/DEEPR.svg",
+      "explorerLink": "https://explorer.evm.shimmer.network/token/0x326f23422CE22Ee5fBb5F37f9fa1092d095546F8"
+    },
+    {
+      "address": "0x5dA63f4456A56a0c5Cb0B2104a3610D5CA3d48E8",
+      "name": "Wrap IOTA",
+      "symbol": "sIOTA",
+      "decimals": 6,
+      "icon": "https://cryptologos.cc/iota",
+      "explorerLink": "https://explorer.evm.shimmer.network/token/0x5dA63f4456A56a0c5Cb0B2104a3610D5CA3d48E8"
+    },
+    {
+      "address": "0x4259b21AD6D95d747dDA908e9617443a530CD20d",
+      "name": "WEN Token",
+      "symbol": "WEN",
+      "decimals": 0,
+      "icon": "https://images.shimmersea.finance/WEN.svg",
+      "explorerLink": "https://explorer.evm.shimmer.network/token/0x4259b21AD6D95d747dDA908e9617443a530CD20d"
+    },
+    {
+      "address": "0x4794Aeafa5Efe2fC1F6f5eb745798aaF39A81D3e",
+      "name": "ShimmerSea Lum",
+      "symbol": "LUM",
+      "decimals": 18,
+      "icon": "https://images.shimmersea.finance/LUM.svg",
+      "explorerLink": "https://explorer.evm.shimmer.network/token/0x4794Aeafa5Efe2fC1F6f5eb745798aaF39A81D3e"
+    },
+    {
+      "address": "0xbD17705cA627EFBB55dE22A0F966Af79E9191c89",
+      "name": "Rusty Robot Country Club",
+      "symbol": "RUST",
+      "decimals": 18,
+      "icon": "https://images.shimmersea.finance/RUST.svg",
+      "explorerLink": "https://explorer.evm.shimmer.network/token/0xbD17705cA627EFBB55dE22A0F966Af79E9191c89"
+    },
+    {
+      "address": "0x8E9b86C02F54d4D909e25134ce45bdf2B6597306",
+      "name": "Fusing Failstack Token",
+      "symbol": "FUSE",
+      "decimals": 18,
+      "icon": "https://images.shimmersea.finance/FUSE.svg",
+      "explorerLink": "https://explorer.evm.shimmer.network/token/0x8E9b86C02F54d4D909e25134ce45bdf2B6597306"
+    },
+    {
+      "address": "0x3C844FB5AD27A078d945dDDA8076A4084A76E513",
+      "name": "Wrap SOON",
+      "symbol": "sSoon",
+      "decimals": 6,
+      "icon": "https://images.shimmersea.finance/sSOON.svg",
+      "explorerLink": "https://explorer.evm.shimmer.network/token/0x3C844FB5AD27A078d945dDDA8076A4084A76E513"
+    },
+    {
+      "address": "0x264F2e6142CE8bEA68e5C646f8C07db98A9E003A",
+      "name": "ApeDAO",
+      "symbol": "APEin",
+      "decimals": 18,
+      "icon": "https://images.shimmersea.finance/APEin.svg",
+      "explorerLink": "https://explorer.evm.shimmer.network/token/0x264F2e6142CE8bEA68e5C646f8C07db98A9E003A"
+    },
+    {
+      "address": "0xa158A39d00C79019A01A6E86c56E96C461334Eb0",
+      "name": "Wrap ETH",
+      "symbol": "sETH",
+      "decimals": 18,
+      "icon": "https://cryptologos.cc/ethereum",
+      "explorerLink": "https://explorer.evm.shimmer.network/token/0xa158A39d00C79019A01A6E86c56E96C461334Eb0"
+    },
+    {
+      "address": "0x1cDF3F46DbF8Cf099D218cF96A769cea82F75316",
+      "name": "Wrap WBTC",
+      "symbol": "sBTC",
+      "decimals": 8,
+      "icon": "https://cryptologos.cc/bitcoin",
+      "explorerLink": "https://explorer.evm.shimmer.network/token/0x1cDF3F46DbF8Cf099D218cF96A769cea82F75316"
+    },
+    {
+      "address": "0x2A6F394085B8E33fbD9dcFc776BCE4ed95F1900D",
+      "name": "BNB",
+      "symbol": "BNB",
+      "decimals": 18,
+      "icon": "https://cryptologos.cc/logos/bnb-bnb-logo.svg",
+      "explorerLink": "https://explorer.evm.shimmer.network/token/0x2A6F394085B8E33fbD9dcFc776BCE4ed95F1900D"
+    },
+    {
+      "address": "0x8C96Dd1A8B1952Ce6F3a582170bb173eD591D40D",
+      "name": "Fantom",
+      "symbol": "FTM",
+      "decimals": 18,
+      "icon": "https://cryptologos.cc/fantom",
+      "explorerLink": "https://explorer.evm.shimmer.network/token/0x8C96Dd1A8B1952Ce6F3a582170bb173eD591D40D"
+    },
+    {
+      "address": "0xa4f8C7C1018b9dD3be5835bF00f335D9910aF6Bd",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "icon": "https://cryptologos.cc/tether",
+      "explorerLink": "https://explorer.evm.shimmer.network/token/0xa4f8C7C1018b9dD3be5835bF00f335D9910aF6Bd"
+    },
+    {
+      "address": "0xE6373A7Bb9B5a3e71D1761a6Cb4992AD8537Bf28",
+      "name": "Matic",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "icon": "https://cryptologos.cc/polygon",
+      "explorerLink": "https://explorer.evm.shimmer.network/token/0xE6373A7Bb9B5a3e71D1761a6Cb4992AD8537Bf28"
+    },
+    {
+      "address": "0xEAf8553fD72417C994525178fC917882d5AEc725",
+      "name": "AVAX",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "icon": "https://github.com/spothq/cryptocurrency-icons/blob/9bb4d736c1812bd71b2e8a59d5c75944187f9d44/128/color/avax.png",
+      "explorerLink": "https://explorer.evm.shimmer.network/token/0xEAf8553fD72417C994525178fC917882d5AEc725"
+    },
+    {
+      "address": "0xeCE555d37C37D55a6341b80cF35ef3BC57401d1A",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "icon": "https://cryptologos.cc/usd-coin",
+      "explorerLink": "https://explorer.evm.shimmer.network/token/0xeCE555d37C37D55a6341b80cF35ef3BC57401d1A"
+    },
+    {
+      "address": "0xb0119035d08CB5f467F9ed8Eae4E5f9626Aa7402",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "icon": "https://cryptologos.cc/bitcoin",
+      "explorerLink": "https://explorer.evm.shimmer.network/token/0xb0119035d08CB5f467F9ed8Eae4E5f9626Aa7402"
+    },
+    {
+      "address": "0x4638C9fb4eFFe36C49d8931BB713126063BF38f9",
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "icon": "https://cryptologos.cc/ethereum",
+      "explorerLink": "https://explorer.evm.shimmer.network/token/0x4638C9fb4eFFe36C49d8931BB713126063BF38f9"
+    }
+  ]
+  

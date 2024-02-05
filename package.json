@@ -1,0 +1,25 @@
+{
+  "name": "shimmer-safe-token-list",
+  "version": "1.0.0",
+  "description": "Contains all verified tokens for the official safe wallet on shimmer network.",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/servrox-solutions/shimmer-safe-token-list.git"
+  },
+  "keywords": [
+    "iota",
+    "shimmer",
+    "safe",
+    "gnosis",
+    "token",
+    "tokens",
+    "nft",
+    "nfts"
+  ],
+  "author": "servroxsolutions",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/servrox-solutions/shimmer-safe-token-list/issues"
+  },
+  "homepage": "https://github.com/servrox-solutions/shimmer-safe-token-list#readme"
+}
